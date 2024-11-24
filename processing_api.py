@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+'''Download satellite image from SentinelHub API chosen by coordinates'''
+
 # Utilities
 import os
 import matplotlib.pyplot as plt
