@@ -1,5 +1,5 @@
 """
-Utilities used by example notebooks
+Utilities used by example notebooks (Taken from SentinelHub Example Notebooks github repo)
 """
 from typing import Any, Optional, Tuple
 

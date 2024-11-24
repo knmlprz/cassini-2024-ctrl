@@ -22,6 +22,7 @@ cartopy = "^0.24.1"
 xarray = "^2024.11.0"
 netcdf4 = "^1.7.2"
 h5netcdf = "^1.4.1"
+osmnx = "^1.9.3"
 
 
 [build-system]
