@@ -1,0 +1,5 @@
+Koordynaty rogów obserwowanego obszaru:
+top_left: x=50.092533, y=21.8615417
+top_right: x=50.092533, y=22.0931153
+bottom_left: x=49.9361266, y=21.8615417
+bottom_right: x=49.9361266, y=22.0931153
