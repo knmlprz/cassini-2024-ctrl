@@ -1,0 +1,29 @@
+[tool.poetry]
+name = "cassini-2024-ctrl"
+version = "0.1.0"
+description = ""
+authors = ["sand194 <piasekj1602@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+sentinelhub = "^3.11.1"
+python-dotenv = "^1.0.1"
+numpy = "^1.26.4"
+tensorflow = "^2.18.0"
+matplotlib = "^3.9.2"
+scikit-image = "^0.24.0"
+pandas = "^2.2.3"
+utils = "^1.0.2"
+python-utils = "^3.9.0"
+kagglehub = "^0.3.4"
+pillow = "^11.0.0"
+cartopy = "^0.24.1"
+xarray = "^2024.11.0"
+netcdf4 = "^1.7.2"
+h5netcdf = "^1.4.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
